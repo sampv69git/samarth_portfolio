@@ -26,7 +26,7 @@ I am a Computer Science student passionate about **full-stack web development**,
 - **Contact** – Ways to get in touch  
 
 ## 🔗 Live Demo
-Live demo will be updated after deployment.
+(https://samarth-portfolio-three.vercel.app/)
 
 ## 📁 Repository
 Source code available here:  

@@ -1,43 +1,42 @@
-#  Niranjan C N Portfolio
+# Samarth PV – Portfolio
 
-Welcome to my personal portfolio! This site showcases my skills, projects, and ways to connect with me.
+Welcome to my personal portfolio website. This project highlights my skills, projects, and interests as a Computer Science student focused on building meaningful and scalable digital solutions.
 
 ## 🚀 About Me
-I am a 3rd-year CSE student passionate about **web development**, **app development**, and **AI/ML**. I focus on building modern web applications targetting Real-world problems.
+I am a Computer Science student passionate about **full-stack web development**, **AI/ML**, and **problem-solving through technology**. I enjoy creating impactful products that solve real-world problems with clean design and efficient code.
 
 ## 💻 Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS
-- **Libraries & Tools:** React Router, TanStack Query, Lucide Icons, Sonner, Toaster
+- **Libraries & Tools:** React Router, TanStack Query, Lucide Icons
 - **Other:** Vite, Git, GitHub
 
 ## 🌟 Features
-- Fully **responsive** and mobile-friendly design
-- Interactive **Cyan Kite-Tail Cursor** animation
-- **Custom clickable scroll bar** for smooth navigation
-- Floating toolbar for easy access to navigation
-- Clean, modern, and minimalistic UI
-- Contact section with email, phone, and social links
-- Resume download button
-- Smooth scrolling animations
+- Fully responsive and mobile-friendly design  
+- Modern UI with smooth animations  
+- Interactive cursor and scroll indicators  
+- Project showcase with descriptions and links  
+- Resume download support  
+- Contact section with social links  
 
 ## 📂 Sections
-- **Home Page Section** – Introduction and quick links
-- **About Section** – Personal info and skills
-- **Projects Section** – My projects with descriptions and links
-- **Skills Section** – Tech skills with experience level
-- **Contact Section** – Email, phone, LinkedIn, GitHub, and Resume
+- **Home** – Introduction and highlights  
+- **About** – Background and interests  
+- **Projects** – Selected projects with details  
+- **Skills** – Technical skill set  
+- **Contact** – Ways to get in touch  
 
 ## 🔗 Live Demo
-Check out the live version [here](https://niranjan-portfolio-phi.vercel.app/)
+Live demo will be updated after deployment.
 
 ## 📁 Repository
-You can find the source code on [GitHub]([YOUR_REPO_LINK](https://github.com/cnniranjan72/niranjan_portfolio/))
+Source code available here:  
+👉 https://github.com/sampv69git/samarth-portfolio
 
-## 📫 Contact Me
-- Email: [cnniranjan72@gmail.com](mailto:cnniranjan72@gmail.com)
-- LinkedIn: [Niranjan C N](https://www.linkedin.com/in/niranjan-c-n/)
-- GitHub: [cnniranjan72](https://github.com/cnniranjan72)
+## 📫 Contact
+- **Email:** samarthpv69@gmail.com  
+- **GitHub:** https://github.com/sampv69git  
+- **LinkedIn:** (add your LinkedIn URL here)
 
 ---
 
-*Thank you for visiting my portfolio! Feel free to reach out for collaboration or project opportunities.*
+© Samarth PV

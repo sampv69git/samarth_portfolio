@@ -30,12 +30,12 @@ Live demo will be updated after deployment.
 
 ## 📁 Repository
 Source code available here:  
-👉 https://github.com/sampv69git/samarth-portfolio
+👉 https://github.com/sampv69git/samarth_portfolio
 
 ## 📫 Contact
 - **Email:** samarthpv69@gmail.com  
 - **GitHub:** https://github.com/sampv69git  
-- **LinkedIn:** (add your LinkedIn URL here)
+- **LinkedIn:** https://www.linkedin.com/in/samarth-pv-/
 
 ---
 

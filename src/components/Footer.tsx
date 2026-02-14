@@ -1,12 +1,12 @@
 import { Mail, Linkedin, Github, FileText } from "lucide-react";
 
-const Footer = () => {
-  const socialLinks = [
-    { icon: <Mail size={24} />, href: "mailto:samarthpv69.com", label: "Email" },
-    { icon: <Linkedin size={24} />, href: "https://www.linkedin.com/in/samarth-pv-/", label: "LinkedIn" },
-    { icon: <Github size={24} />, href: "https://github.com/sampv69git", label: "GitHub" },
-    { icon: <FileText size={24} />, href: "../public/resume/sam-resume.pdf", label: "Resume" },
-  ];
+const socialLinks = [
+  { icon: <Mail size={24} />, href: "mailto:samarthpv69@gmail.com", label: "Email" },
+  { icon: <Linkedin size={24} />, href: "https://www.linkedin.com/in/samarth-pv-/", label: "LinkedIn" },
+  { icon: <Github size={24} />, href: "https://github.com/sampv69git", label: "GitHub" },
+  { icon: <FileText size={24} />, href: "/resume/resume_sam.pdf", label: "Resume" },
+];
+
 
   return (
     <footer className="bg-background py-16 pb-32">

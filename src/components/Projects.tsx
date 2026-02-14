@@ -63,6 +63,16 @@ const PortfolioSection = () => {
   codeLink: "https://github.com/sampv69git/medical-insurance-app"
 }
 ,
+{
+ id: 6,
+  title: "AgriMind – AI-Powered Farming Insights",
+  description:
+    "A modern AI-powered platform for farmers that provides insights, predictions, and community features for sustainable farming.",
+  category: ["AI/ML"],
+  tags: ["React", "PostgreSQL", "ML", "AI", "Flask", "TailwindCSS", "Render"],
+  demoLink: "https://agrimind-frontend.vercel.app/",
+  codeLink: "https://github.com/sampv69git/AgriMind"
+},
   ];
 
   const filteredProjects =

@@ -1,12 +1,12 @@
 import { Mail, Linkedin, Github, FileText } from "lucide-react";
 
-const socialLinks = [
-  { icon: <Mail size={24} />, href: "mailto:samarthpv69@gmail.com", label: "Email" },
-  { icon: <Linkedin size={24} />, href: "https://www.linkedin.com/in/samarth-pv-/", label: "LinkedIn" },
-  { icon: <Github size={24} />, href: "https://github.com/sampv69git", label: "GitHub" },
-  { icon: <FileText size={24} />, href: "/resume/resume_sam.pdf", label: "Resume" },
-];
-
+const Footer = () => {
+  const socialLinks = [
+    { icon: <Mail size={24} />, href: "mailto:samarthpv69@gmail.com", label: "Email" },
+    { icon: <Linkedin size={24} />, href: "https://www.linkedin.com/in/samarth-pv-/", label: "LinkedIn" },
+    { icon: <Github size={24} />, href: "https://github.com/sampv69git", label: "GitHub" },
+    { icon: <FileText size={24} />, href: "/resume/resume_sam.pdf", label: "Resume" },
+  ];
 
   return (
     <footer className="bg-background py-16 pb-32">
@@ -18,13 +18,7 @@ const socialLinks = [
               href={social.href}
               target="_blank"
               rel="noopener noreferrer"
-              className="
-                flex flex-col items-center justify-center
-                p-4 rounded-full
-                transition-smooth
-                hover:text-primary
-                relative
-              "
+              className="flex flex-col items-center justify-center p-4 rounded-full transition-smooth hover:text-primary relative"
             >
               <div className="w-16 h-16 flex items-center justify-center rounded-full hover:shadow-glow transition-smooth">
                 {social.icon}
